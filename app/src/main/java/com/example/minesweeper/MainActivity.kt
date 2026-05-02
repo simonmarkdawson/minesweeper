@@ -85,7 +85,7 @@ class MainActivity : ComponentActivity() {
         if (savedName != null) {
             initializeSystems()
         }
-// Test comment 3
+// Test comment 4
         setContent {
             val navController = rememberNavController()
 
